@@ -1,11 +1,11 @@
 # bikesharing
 
-![https://public.tableau.com/app/profile/arielle.colasanto/viz/Module14Challenge-NYCCitiBike_16564462338260/Module14StoryChallenge?publish=yes] Click Here for Tableau Story
+ [Click Here for Tableau Story](https://public.tableau.com/app/profile/arielle.colasanto/viz/Module14Challenge-NYCCitiBike_16564462338260/Module14StoryChallenge?publish=yes)
 
 
 ## Overview of the analysis: 
 
-One of the key stakeholders for an emerging bike-sharing program in Des Moines wants an example of the type of use bike-sharing programs actually get. This repo provides a business analysis of data from NYC Citi Bike program and their open data provided at ![https://ride.citibikenyc.com/system-data](The NYC Citi Bike System Data) bucket.
+One of the key stakeholders for an emerging bike-sharing program in Des Moines wants an example of the type of use bike-sharing programs actually get. This repo provides a business analysis of data from NYC Citi Bike program and their open data provided at [The NYC Citi Bike System Data](https://ride.citibikenyc.com/system-data) bucket.
 
 ## Results: 
 
