@@ -1,6 +1,6 @@
 # bikesharing
 
-[https://public.tableau.com/app/profile/arielle.colasanto/viz/Module14Challenge-NYCCitiBike_16564462338260/Module14StoryChallenge?publish=yes]Click Here for Tableau Story
+[https://public.tableau.com/app/profile/arielle.colasanto/viz/Module14Challenge-NYCCitiBike_16564462338260/Module14StoryChallenge?publish=yes] Click Here for Tableau Story
 
 
 ## Overview of the analysis: 
