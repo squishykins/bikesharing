@@ -23,4 +23,4 @@ Explain the purpose of this analysis.
 
 ## Summary: 
 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+It is extrodinarily clear that when broken down by gender and hours you can see exactly when the highest level of traffic is and which group of people are out during those times so you can structure a marketing campaign directed at those demographics. The two additional visualizations that I added are the bike ID usage by gender and peak hours broken down by gender. This shows which bikes will need to go down during which high peak hours and the second helping with which demographics ride at which times. I imagine that if you include a dataset that involved which are commuters and which are tourists could better help your marketing team. 
