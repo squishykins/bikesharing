@@ -1,6 +1,6 @@
 # bikesharing
 
-<img src="https://user-images.githubusercontent.com/101137700/182008780-80e9c2bf-3fac-4d58-803e-51396a11e70d.png" width="100">
+<img src="https://user-images.githubusercontent.com/101137700/182008780-80e9c2bf-3fac-4d58-803e-51396a11e70d.png" width="100"><img src="https://user-images.githubusercontent.com/101137700/181668163-8e2e28e1-b464-465b-a1a3-29bb096f56ff.png" width="50">
 
 
  [Click Here for Tableau Story](https://public.tableau.com/app/profile/arielle.colasanto/viz/Module14Challenge-NYCCitiBike_16564462338260/Module14StoryChallenge?publish=yes)
