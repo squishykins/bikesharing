@@ -1,5 +1,8 @@
 # bikesharing
 
+<img src="https://user-images.githubusercontent.com/101137700/182008780-80e9c2bf-3fac-4d58-803e-51396a11e70d.png" width="100">
+
+
  [Click Here for Tableau Story](https://public.tableau.com/app/profile/arielle.colasanto/viz/Module14Challenge-NYCCitiBike_16564462338260/Module14StoryChallenge?publish=yes)
 
 
